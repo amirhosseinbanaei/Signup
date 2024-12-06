@@ -1,9 +1,9 @@
-# Sing up page project
+# Sing up page
 
-Simple responsive sing up project built with <strong>[Tailwindcss](https://tailwindcss.com/)</strong>
+### 🛠️ Built With
 
-<br/>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-The target for doing this project was just built 
+### 🧑‍🚀 Screenshot
 
-### You can see this project [here](https://www.singup.amirhosseinbanaei.ir)
+![screenshot](https://github.com/amirhosseinbanaei/Singup/blob/main/screen.png)
