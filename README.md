@@ -1,4 +1,4 @@
-# Sing up page
+# Sign up page
 
 ### 🛠️ Built With
 
