@@ -424,9 +424,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .justify-around{
   justify-content: space-around;
 }
-.rounded{
-  border-radius: 0.25rem;
-}
 .rounded-xl{
   border-radius: 0.75rem;
 }
@@ -446,6 +443,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .bg-cover{
   background-size: cover;
+}
+.fill-white{
+  fill: #fff;
 }
 .pl-5{
   padding-left: 1.25rem;
@@ -502,6 +502,28 @@ body{
 .placeholder\:text-sm::placeholder{
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.checked\:fill-lightgreen:checked{
+  fill: #28CDBA;
+}
+
+.checked\:fill-white:checked{
+  fill: #fff;
+}
+
+.checked\:text-lightgreen:checked{
+  --tw-text-opacity: 1;
+  color: rgb(40 205 186 / var(--tw-text-opacity));
+}
+
+.checked\:text-white:checked{
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.checked\:accent-lightgreen:checked{
+  accent-color: #28CDBA;
 }
 
 .focus\:outline-none:focus{
